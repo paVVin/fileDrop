@@ -1,0 +1,24 @@
+  *-display
+       описание: VGA compatible controller
+       продукт: GP108 [GeForce GT 1030]
+       производитель: NVIDIA Corporation
+       физический ID: 0
+       сведения о шине: pci@0000:01:00.0
+       версия: a1
+       разрядность: 64 bits
+       частота: 33MHz
+       возможности: vga_controller bus_master cap_list rom
+       конфигурация: driver=nvidia latency=0
+       ресурсы: IRQ:137 память:f6000000-f6ffffff память:e0000000-efffffff память:f0000000-f1ffffff ioport:e000(размер=128) память:c0000-dffff
+  *-display
+       описание: VGA compatible controller
+       продукт: GP108 [GeForce GT 1030]
+       производитель: NVIDIA Corporation
+       физический ID: 0
+       сведения о шине: pci@0000:04:00.0
+       версия: a1
+       разрядность: 64 bits
+       частота: 33MHz
+       возможности: vga_controller bus_master cap_list rom
+       конфигурация: driver=nvidia latency=0
+       ресурсы: IRQ:138 память:f4000000-f4ffffff память:c0000000-cfffffff память:d0000000-d1ffffff ioport:d000(размер=128) память:f5000000-f507ffff

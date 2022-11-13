@@ -1,0 +1,41 @@
+[1;34mSystem:   [0;37m [1;34mHost:[0;37m wall-1 [1;34mKernel:[0;37m 5.4.0-131-generic x86_64 [1;34mbits:[0;37m 64 [1;34mgcc:[0;37m 7.5.0[0;37m
+[1;34m          [0;37m [1;34mDesktop:[0;37m Gnome 3.28.4 (Gtk 3.22.30-1ubuntu4) [1;34minfo:[0;37m gnome-shell [1;34mdm:[0;37m gdm3[0;37m
+[1;34m          [0;37m [1;34mDistro:[0;37m Ubuntu 18.04.6 LTS[0;37m
+[1;34mMachine:  [0;37m [1;34mDevice:[0;37m desktop [1;34mSystem:[0;37m Gigabyte [1;34mproduct:[0;37m B365MHD3 [1;34mserial:[0;37m N/A[0;37m
+[1;34m          [0;37m [1;34mMobo:[0;37m Gigabyte [1;34mmodel:[0;37m B365M HD3 [1;34mv:[0;37m x.x [1;34mserial:[0;37m N/A[0;37m
+[1;34m          [0;37m [1;34mUEFI [Legacy]:[0;37m American Megatrends [1;34mv:[0;37m F1 [1;34mdate:[0;37m 04/25/2019[0;37m
+[1;34mCPU:      [0;37m [1;34m6 core[0;37m Intel Core i5-9400F (-MCP-) [0;37m[0;37m
+[1;34m          [0;37m [1;34march:[0;37m Skylake rev.10 [1;34mcache:[0;37m 9216 KB[0;37m
+[1;34m          [0;37m [1;34mflags:[0;37m (lm nx sse sse2 sse3 sse4_1 sse4_2 ssse3 vmx) [1;34mbmips:[0;37m 34798[0;37m
+[1;34m          [0;37m [1;34mclock speeds:[0;37m [1;34mmin/max:[0;37m 800/4100 MHz [1;34m1:[0;37m 800 MHz [1;34m2:[0;37m 800 MHz[0;37m
+[1;34m          [0;37m [1;34m3:[0;37m 800 MHz [1;34m4:[0;37m 800 MHz [1;34m5:[0;37m 800 MHz [1;34m6:[0;37m 800 MHz[0;37m
+[1;34mGraphics: [0;37m [1;34mCard-1:[0;37m NVIDIA GP108 [GeForce GT 1030][0;37m
+[1;34m          [0;37m [1;34mbus-ID:[0;37m 01:00.0 [1;34mchip-ID:[0;37m 10de:1d01[0;37m
+[1;34m          [0;37m [1;34mCard-2:[0;37m NVIDIA GP108 [GeForce GT 1030][0;37m
+[1;34m          [0;37m [1;34mbus-ID:[0;37m 04:00.0 [1;34mchip-ID:[0;37m 10de:1d01[0;37m
+[1;34m          [0;37m [1;34mDisplay Server:[0;37m x11 (X.Org 1.19.6 ) [1;34mdriver:[0;37m nvidia[0;37m
+[1;34m          [0;37m [1;34mResolution:[0;37m 1920x1080@60.00hz, 1920x1080@60.00hz[0;37m
+[1;34m          [0;37m [1;34mOpenGL: renderer:[0;37m NVIDIA GeForce GT 1030/PCIe/SSE2[0;37m
+[1;34m          [0;37m [1;34mversion:[0;37m 4.6.0 NVIDIA 515.65.01 [1;34mDirect Render:[0;37m Yes[0;37m
+[1;34mAudio:    [0;37m [1;34mCard-1[0;37m Intel 200 Series PCH HD Audio[0;37m
+[1;34m          [0;37m [1;34mdriver:[0;37m snd_hda_intel [1;34mbus-ID:[0;37m 00:1f.3 [1;34mchip-ID:[0;37m 8086:a2f0[0;37m
+[1;34m          [0;37m [1;34mCard-2[0;37m 2x NVIDIA GP108 High Def. Audio Controller[0;37m
+[1;34m          [0;37m [1;34mdriver:[0;37m snd_hda_intelsnd_hda_intel [1;34mbus-ID:[0;37m 04:00.1 [1;34mchip-ID:[0;37m 10de:0fb8[0;37m
+[1;34m          [0;37m [1;34mSound:[0;37m Advanced Linux Sound Architecture [1;34mv:[0;37m k5.4.0-131-generic[0;37m
+[1;34mNetwork:  [0;37m [1;34mCard:[0;37m Realtek RTL8111/8168/8411 PCIE Gigabit Ethernet Controller[0;37m
+[1;34m          [0;37m [1;34mdriver:[0;37m r8169 [1;34mport:[0;37m c000 [1;34mbus-ID:[0;37m 07:00.0 [1;34mchip-ID:[0;37m 10ec:8168[0;37m
+[1;34m          [0;37m [1;34mIF:[0;37m enp7s0 [1;34mstate:[0;37m up [1;34mspeed:[0;37m 1000 Mbps [1;34mduplex:[0;37m full[0;37m
+[1;34m          [0;37m [1;34mmac:[0;37m b4:2e:99:88:14:bb[0;37m
+[1;34mDrives:   [0;37m [1;34mHDD Total Size:[0;37m 120.0GB (11.0% used)[0;37m
+[1;34m          [0;37m [1;34mID-1:[0;37m /dev/sda [1;34mmodel:[0;37m KINGSTON_SA400S3 [1;34msize:[0;37m 120.0GB[0;37m
+[1;34m          [0;37m [1;34mserial:[0;37m 50026B72824A55DC [1;34mtemp:[0;37m 33C[0;37m
+[1;34mPartition:[0;37m [1;34mID-1:[0;37m / [1;34msize:[0;37m 110G [1;34mused:[0;37m 13G (12%) [1;34mfs:[0;37m ext4 [1;34mdev:[0;37m /dev/sda1[0;37m
+[1;34mRAID:     [0;37m [1;34mSystem:[0;37m [1;34msupported:[0;37m N/A[0;37m
+[1;34m          [0;37m No RAID devices: /proc/mdstat, md_mod kernel module present[0;37m
+[1;34m          [0;37m [1;34mUnused Devices:[0;37m none[0;37m
+[1;34mSensors:  [0;37m [1;34mSystem Temperatures: cpu:[0;37m 33.0C [1;34mmobo:[0;37m N/A [1;34mgpu:[0;37m 0.0:40C[0;37m
+[1;34m          [0;37m [1;34mFan Speeds (in rpm): cpu:[0;37m N/A[0;37m
+[1;34mInfo:     [0;37m [1;34mProcesses:[0;37m 256 [1;34mUptime:[0;37m 8 min [1;34mMemory:[0;37m 1005.2/7901.6MB[0;37m
+[1;34m          [0;37m [1;34mInit:[0;37m systemd [1;34mv:[0;37m 237 [1;34mrunlevel:[0;37m 5 [1;34mGcc sys:[0;37m 7.5.0[0;37m
+[1;34m          [0;37m [1;34mClient:[0;37m Shell (bash 4.4.201 running in gnome-terminal-) [1;34minxi:[0;37m 2.3.56[0;37m [0;37m
+[0m
